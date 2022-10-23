@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+.body{
+background-color: #0B0D39;
+
+}
+
+.header{
+    background-color: #1A1C46;
+    display: flex;
+    align-items: center;
+    width: 904px;
+    height: 123px;
+    border-radius: 62px;
+    box-shadow: 0px 19px 55px #00000014;
+    margin-left: 90px;
+    margin-top: 20px;
+    gap: 40px;
+}
+.h1{
+    color: white;
+    font-size: 50px;
+    font-family: 'DM Sans', sans-serif;
+
+}
+
+
+.span1{
+    color: #356DFF;
+    font-size: 50px;
+    font-family: 'DM Sans', sans-serif;
+
+}
+.ulmain{
+    list-style: none;
+    color: #FFFFFF;
+    display: flex;
+    gap: 71px;
+    }
+
+.p1{
+    font-weight: bold;
+    opacity: 100%;
+    font-size: 20px;
+    font-family: 'DM Sans', sans-serif;
+
+}
+.p2{
+    opacity: 60%;
+    font-size: 20px;
+    font-family: 'DM Sans', sans-serif;  
+}
+
+.template{
+    margin-left: 90px;
+    margin-top: 97px;
+    width: 654px;
+    height: 204px;
+    letter-spacing: -3.44px;
+}
+
+.h2{
+    color: #FFFFFF;
+    font-size: 80px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+
+}
+.template1{
+    color: #356DFF;
+    font-size: 80px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+
+} 
+
+.justtext{
+    width: 560px;
+    height: 99px;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+.p3{
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 60%;
+    font-size: 20px;
+    font-family: 'DM Sans', sans-serif;
+
+}
+
+.discuss{
+    width: 209px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 90px;
+    background-color: #356DFF;
+    border-radius: 43px 43px 43px 12px;
+    display: flex;
+    justify-content: center;
+  
+}
+
+.p4{
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 20px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+}
+
+.bigbox{
+    width: 1079px;
+    height:850px;
+    border-radius: 40px;
+    opacity: 1;
+    background-color: #1A1C46;
+    margin-top: 20px;
+    margin-left: 90px;
+
+}
+
+.header1{
+height: 85px;
+color: #FFFFFF;
+letter-spacing: -2.75px;
+font-size: 64px;
+margin-left: 400px;
+font-family: 'DM Sans', sans-serif;
+font-weight: bold;
+
+}
+
+.span2{
+color: #356DFF;
+font-family: 'DM Sans', sans-serif;
+font-weight: bold;
+
+}
+
+.menu1{
+    height: 270px;
+    width: 270px;
+    background-color: #2e3261;
+    border-radius: 50% ;
+}
+.menu2{
+    height: 270px;
+    width: 270px;
+    background-color: #2e3261;
+    border-radius: 50% ;
+}
+
+.menu3{
+    height: 270px;
+    width: 270px;
+    background-color: #2e3261;
+    border-radius: 50% ;
+}
+.Images{
+display: flex;
+align-items: center;
+gap: 70px;
+margin-left: 60px;
+}
+
+.text1{
+width: 260px;
+height: 49px;
+}
+
+.text2{
+width: 260px;
+height: 49px;
+}
+
+.text3{
+width: 260px;
+height: 49px;
+}
+.Texts{
+    display: flex;
+    align-items: center; 
+    gap: 90px;
+    margin-left: 60px;
+}
+
+.p5{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;   
+}
+
+.p6{
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: -0.06px;
+    color: #FFFFFF;
+    opacity: 60%;
+    font-family: 'DM Sans', sans-serif;
+   
+}
